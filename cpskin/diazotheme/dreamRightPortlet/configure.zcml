@@ -6,7 +6,9 @@
            i18n_domain="cpskin">
 
     <!-- Dependencies -->
+    <include package="cpskin.policy" />
     <include package="cpskin.theme" />
+    <include package="cpskin.diazotheme.dream" />
 
     <!-- Profile -->
     <genericsetup:registerProfile
