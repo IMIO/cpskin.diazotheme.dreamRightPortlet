@@ -18,7 +18,7 @@
      enabled="1"
      expression="python:here.restrictedTraverse('@@currentTheme')() == 'cpskin.diazotheme.dreamRightPortlet'"
      applyPrefix="True"
-     insert-before="ploneCustom.css" />
+     insert-before="++theme++cpskin.diazotheme.dreamRightPortlet/css/styles.css" />
   
   <stylesheet title="cpskin.diazotheme.dream mobile style"
      id="++theme++cpskin.diazotheme.dream/css/mobile-dream.css"
