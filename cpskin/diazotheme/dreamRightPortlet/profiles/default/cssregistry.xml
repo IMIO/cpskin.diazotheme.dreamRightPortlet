@@ -28,6 +28,15 @@
      enabled="1" expression="request/HTTP_X_THEME_ENABLED | nothing"
      applyPrefix="True"
      insert-after="++theme++cpskin.diazotheme.dream/css/styles.css" />
+  
+  <stylesheet title="cpskin.diazotheme.dreamRigtPortlet mobile style"
+     id="++theme++cpskin.diazotheme.dreamRightPortlet/css/mobile-dreamRightPortlet.css"
+     media="all"
+     rel="stylesheet" rendering="import"
+     cacheable="True" compression="safe" cookable="True"
+     enabled="1" expression="request/HTTP_X_THEME_ENABLED | nothing"
+     applyPrefix="True"
+     insert-after="++theme++cpskin.diazotheme.dreamRightPortlet/css/styles.css"/>
  
  
 </object>
