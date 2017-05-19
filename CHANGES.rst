@@ -5,6 +5,9 @@ Changelog
 0.4 (unreleased)
 ----------------
 
+- Remove dependency on policy
+  [laulaz]
+
 - Reorder theme parameters (harmonization)
   [laulaz]
 
