@@ -19,7 +19,7 @@
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
 
-    <!-- CPSkin theme -->
+    <!-- Theme -->
     <plone:static directory="static" name="cpskin.diazotheme.dreamRightPortlet" type="theme" />
 
     <cmf:registerDirectory
@@ -27,5 +27,16 @@
         directory="skins"
         recursive="True"
         />
+
+    <!-- Upgrades -->
+    <genericsetup:upgradeStep
+        title="cpskin.diazotheme.dreamRightPortlet theme: upgrade to LESS (v0002)"
+        description="Upgrade step for cpskin.diazotheme.dreamRightPortlet theme to LESS (v0002)"
+        handler=".upgradehandlers.upgrade_to_less"
+        source="0001"
+        destination="0002"
+        profile="cpskin.diazotheme.dreamRightPortlet:default"
+        />
+
 
 </configure>

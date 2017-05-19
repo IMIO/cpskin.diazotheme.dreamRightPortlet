@@ -5,6 +5,9 @@ Changelog
 0.4 (unreleased)
 ----------------
 
+- Complete migration to LESS
+  [laulaz]
+
 - Remove dependency on policy
   [laulaz]
 
