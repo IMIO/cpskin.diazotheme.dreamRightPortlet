@@ -5,7 +5,8 @@ Changelog
 0.4 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Buildout harmonization
+  [laulaz]
 
 
 0.3 (2017-03-17)
