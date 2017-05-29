@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.4 (unreleased)
+0.4 (2017-05-29)
 ----------------
 
 - Ensure cpskin.theme is migrated to LESS before migrating this theme
