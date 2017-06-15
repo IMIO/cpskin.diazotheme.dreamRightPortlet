@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.4.1 (unreleased)
+0.4.1 (2017-06-15)
 ------------------
 
 - Fix LESS styles inheritance from cpskin.diazotheme.dream : #17714
