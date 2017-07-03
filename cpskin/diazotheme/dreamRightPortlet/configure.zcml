@@ -19,6 +19,15 @@
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
 
+    <genericsetup:registerProfile
+        name="uninstall"
+        title="cpskin.diazotheme.dreamRightPortlet uninstall"
+        directory="profiles/uninstall"
+        description="Uninstalls cpskin.diazotheme.dreamRightPortlet theme"
+        for="Products.CMFPlone.interfaces.IPloneSiteRoot"
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
     <!-- Theme -->
     <plone:static directory="static" name="cpskin.diazotheme.dreamRightPortlet" type="theme" />
 

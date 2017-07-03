@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<object name="portal_skins"
+        allow_any="False"
+        cookie_persistence="False"
+        default_skin="dreamRightPortlet theme" >
+
+    <object name="dreamRightPortlet_images"
+            meta_type="Filesystem Directory View"
+            directory="cpskin.diazotheme.dreamRightPortlet:skins/dreamRightPortlet_images"
+            remove="True"/>
+
+ <skin-path name="dreamRightPortlet theme"
+            remove="True">
+    <layer name="dreamRightPortlet_images"
+           remove="True"/>
+ </skin-path>
+
+</object>

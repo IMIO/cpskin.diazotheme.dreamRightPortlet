@@ -5,6 +5,9 @@ Changelog
 0.4.2 (unreleased)
 ------------------
 
+- Add uninstall profile.
+  [bsuttor]
+
 - Add missing rules for right actions panel : #17748
   [laulaz]
 
