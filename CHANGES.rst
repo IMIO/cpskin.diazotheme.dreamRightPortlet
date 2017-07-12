@@ -5,6 +5,9 @@ Changelog
 0.4.3 (unreleased)
 ------------------
 
+- Remove temporary uninstall/portal_lesscss.xml, indeed, some site are not in less at this moment.
+  [bsuttor]
+
 - Add new annuaire.xml rules coming from cpskin.theme : #17751
   [laulaz]
 
