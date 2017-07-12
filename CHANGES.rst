@@ -5,6 +5,9 @@ Changelog
 0.4.3 (unreleased)
 ------------------
 
+- Remove unused skin.
+  [bsuttor]
+
 - Remove temporary uninstall/portal_lesscss.xml, indeed, some site are not in less at this moment.
   [bsuttor]
 
