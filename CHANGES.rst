@@ -5,7 +5,8 @@ Changelog
 0.4.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add new annuaire.xml rules coming from cpskin.theme : #17751
+  [laulaz]
 
 
 0.4.2 (2017-07-03)
