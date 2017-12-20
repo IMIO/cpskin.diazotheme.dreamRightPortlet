@@ -2,11 +2,11 @@ Changelog
 =========
 
 
-0.4.5 (unreleased)
+0.4.5 (2017-12-20)
 ------------------
 
-- Nothing changed yet.
-
+- Delete css to use the default width.
+  [mgennart]
 
 0.4.4 (2017-10-12)
 ------------------
