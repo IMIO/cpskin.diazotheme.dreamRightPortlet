@@ -5,7 +5,8 @@ Changelog
 0.4.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing uninstall step
+  [laulaz]
 
 
 0.4.5 (2017-12-20)
