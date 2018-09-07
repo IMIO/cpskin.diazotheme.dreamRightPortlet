@@ -5,6 +5,9 @@ Changelog
 0.4.6 (unreleased)
 ------------------
 
+- Add missing theme parameters
+  [laulaz]
+
 - Add missing uninstall step
   [laulaz]
 
