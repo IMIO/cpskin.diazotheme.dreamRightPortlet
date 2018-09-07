@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.4.6 (unreleased)
+0.4.6 (2018-09-07)
 ------------------
 
 - Add missing theme parameters
