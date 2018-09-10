@@ -5,7 +5,8 @@ Changelog
 0.4.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Use fragment to get "Search" translation
+  [laulaz]
 
 
 0.4.6 (2018-09-07)
