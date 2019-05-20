@@ -5,7 +5,8 @@ Changelog
 0.4.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Improve CSS media queries sizes
+  [laulaz]
 
 
 0.4.7 (2019-01-10)
