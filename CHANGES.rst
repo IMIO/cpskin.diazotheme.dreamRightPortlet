@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.4.8 (unreleased)
+0.4.8 (2023-03-07)
 ------------------
 
 - Improve CSS media queries sizes
